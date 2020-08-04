@@ -28,4 +28,4 @@ Week 1: A banking console app featuring MVC design pattern
 
 	a. Login system
 
-	b. Transactions (withdrawals/depsosits, etc.)
+	b. Transactions (withdrawal/deposit, etc.)
