@@ -1,6 +1,6 @@
 # banking-app
 
-The project will evolve each week.
+Please note that this is an ongoing project which will evolve each week.
 
 Week 1: A banking console app featuring MVC design pattern
 
@@ -12,20 +12,20 @@ Week 1: A banking console app featuring MVC design pattern
 
 4. Allow user to make:
 
-a. Deposit
+	a. Deposit
 
-b. Withdrawal
+	b. Withdrawal
 
-c. Funds Transfer
+	c. Funds Transfer
 
-d. 5 recent transaction history
+	d. 5 recent transaction history
 
-e. Display customer information
+	e. Display customer information
 
-f. Sign out
+	f. Sign out
 
 5. Apply business logic to handle illegal operations in:
 
-a. Login system
+	a. Login system
 
-b. Transactions (withdrawals/depsosits, etc.)
+	b. Transactions (withdrawals/depsosits, etc.)
